@@ -1,2 +1,2 @@
 # turisapp-project
-Informacion del proyecto
+Informacion del proyecto CampusLands
